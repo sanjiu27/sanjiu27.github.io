@@ -1298,9 +1298,9 @@ article .content .caption {
   color: #858585;
 }
 #footer .footer-left {
-  height: 20px;
+  height: 15px;
   vertical-align: middle;
-  line-height: 20px;
+  line-height: 15px;
 }
 @media (min-width: 39rem) {
   #footer {
@@ -1313,7 +1313,7 @@ article .content .caption {
   }
   #footer .footer-left {
     align-self: flex-start;
-    margin-right: 20px;
+    margin-right: 15px;
   }
   #footer .footer-right {
     align-self: flex-end;
