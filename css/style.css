@@ -1120,7 +1120,7 @@ article .content img,
 article .content video {
   display: block;
   margin: auto;
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 article .content .video-container {
@@ -1136,7 +1136,7 @@ article .content .video-container embed {
   top: 0;
   left: 0;
   margin-top: 0;
-  width: 100%;
+  width: 80%;
   height: 100%;
 }
 article .content blockquote {
@@ -1261,7 +1261,7 @@ article .content .caption {
   position: absolute;
   bottom: 0;
   margin-bottom: 10px;
-  width: 100%;
+  width: 50%;
   color: #666;
   vertical-align: top;
   text-align: center;
