@@ -791,7 +791,7 @@ body {
   background-repeat: repeat-x;
 }
 #header-post #nav ul li {
-  border-right: 1px dotted #d44375;
+  border-right: 0 #d44375;
 }
 #header-post #nav ul li:last-child {
   margin-right: 0;
@@ -1261,7 +1261,6 @@ article .content .caption {
   position: ;
   bottom: 0;
   margin-bottom: 10px;
-  width: 50%;
   color: #666;
   vertical-align: top;
   text-align: center;
@@ -1275,7 +1274,7 @@ article .content .caption {
 #footer li {
   display: inline-block;
   margin-right: 15px;
-  border-right: 1px solid;
+  border-right: 0px;
   border-color: #666;
   vertical-align: middle;
 }
